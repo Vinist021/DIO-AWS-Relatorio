@@ -1,31 +1,35 @@
-# RELÁTORIO DE SERVIÇO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# 📝 RELATÓRIO DE SERVIÇO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 10/08/2025
-Empresa: Abstergo Industries
-Responsável: Vinicius Teixeira
+📅 **Data:** 10/08/2025  
 
-## 1. Introdução
-Com a expansão de operações e o objetivo de otimizar custos, aumentar a eficiência e garantir escalabilidade, a adoção de soluções em cloud computing se torna uma estratégia essencial.  
+🏢 **Empresa:** Abstergo Industries  
+
+👤 **Responsável:** Vinicius Teixeira  
+
+---
+
+## Introdução
+Com a expansão de operações e o objetivo de otimizar custos, aumentar a eficiência e garantir escalabilidade, a adoção de soluções em **cloud computing** se torna uma estratégia essencial.  
 Este relatório apresenta três ferramentas da **Amazon Web Services (AWS)** que podem auxiliar a Abstergo nesta transição, detalhando os benefícios e principais ganhos de cada uma.
 
 ---
 
-## 2. Descrição do Projeto
+## Descrição do Projeto
 O projeto tem como objetivo criar uma infraestrutura tecnológica robusta, segura e escalável para suportar as operações da Abstergo, permitindo:
-- Redução de custos operacionais.
-- Melhor desempenho no gerenciamento de dados e processos.
-- Facilidade de expansão e integração com parceiros comerciais.
+- 💰 Redução de custos operacionais.
+- ⚡ Melhor desempenho no gerenciamento de dados e processos.
+- 🔗 Facilidade de expansão e integração com parceiros comerciais.
   
-As ferramentas escolhidas da AWS são:
-1. **Amazon S3** – Armazenamento seguro e escalável.
-2. **Amazon RDS** – Banco de dados relacional gerenciado.
-3. **AWS Lambda** – Execução de código sem provisionamento de servidores.
+**As ferramentas escolhidas da AWS são**:
+1. 📦 **Amazon S3** – Armazenamento seguro e escalável.
+2. 🗄️ **Amazon RDS** – Banco de dados relacional gerenciado.
+3. ⚡ **AWS Lambda** – Execução de código sem provisionamento de servidores.
 
 ---
 
-## 3. Serviços AWS Selecionados e Etapas de Implementação
+## Serviços AWS Selecionados e Etapas de Implementação
 
-### 3.1 Amazon S3 – Armazenamento de Arquivos
+### 📦 Amazon S3 – Armazenamento de Arquivos
 **Objetivo:** Armazenar documentos, catálogos, relatórios e dados de forma segura e acessível.  
 **Como reduz custos:** Evita a necessidade de investir em infraestrutura física de armazenamento e permite pagar apenas pelo uso.  
 **Principal ganho:** Alta disponibilidade e escalabilidade automática.
@@ -37,7 +41,7 @@ As ferramentas escolhidas da AWS são:
 
 ---
 
-### 3.2 Amazon RDS – Banco de Dados Relacional
+### 🗄️ Amazon RDS – Banco de Dados Relacional
 **Objetivo:** Centralizar e gerenciar os dados transacionais da empresa (estoque, pedidos, histórico de vendas).  
 **Como reduz custos:** Elimina gastos com manutenção e administração de servidores de banco de dados, reduzindo a necessidade de equipe especializada em infraestrutura.  
 **Principal ganho:** Alta performance e segurança para operações críticas.
@@ -49,7 +53,7 @@ As ferramentas escolhidas da AWS são:
 
 ---
 
-### 3.3 AWS Lambda – Computação Serverless
+### ⚡ AWS Lambda – Computação Serverless
 **Objetivo:** Automatizar processos internos, como atualização de estoques e integração com sistemas de parceiros.  
 **Como reduz custos:** Não é necessário manter servidores ativos, cobra-se apenas pelo tempo de execução do código.  
 **Principal ganho:** Flexibilidade e escalabilidade automática para executar tarefas sob demanda.
@@ -61,11 +65,11 @@ As ferramentas escolhidas da AWS são:
 
 ---
 
-## 4. Conclusão
+## Conclusão
 A adoção das soluções **Amazon S3**, **Amazon RDS** e **AWS Lambda** permitirá à **Abstergo**:
-- Reduzir custos de infraestrutura.
-- Aumentar a segurança e a confiabilidade dos dados.
-- Ganhar escalabilidade e flexibilidade nas operações.
+- 💰 Reduzir custos de infraestrutura.
+- 🔒 Aumentar a segurança e a confiabilidade dos dados.
+- 📈 Ganhar escalabilidade e flexibilidade nas operações.
 
 Com a implementação planejada, a empresa estará pronta para crescer de forma sustentável, acompanhando a demanda do mercado e mantendo a competitividade no setor farmacêutico B2B.
 
